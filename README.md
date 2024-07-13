@@ -1,5 +1,7 @@
 # Exercices de manipulation de polynômes réalisés dans le cadre d'un projet universitaire.
-
+# Manipulation de polynômes
+ 
+ *Exercices de manipulation de polynômes réalisés dans le cadre d'un projet universitaire. Manipulation de tableaux, structures et de pointeurs.*
 Language : C <br>
 Gestion partielle des erreurs d'entrée
 
