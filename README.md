@@ -3,8 +3,8 @@
  *Exercices de manipulation de polynômes réalisés dans le cadre d'un projet universitaire.<br>
  Manipulation de tableaux, structures et de pointeurs.<br><br>
 Language : C <br>
-Gestion partielle des erreurs d'entrée*
-<u>Dernière mise à jour</u> : 14/05/2024
+Gestion partielle des erreurs d'entrée*<br>
+<ins>Dernière mise à jour</ins> : 14/05/2024
 
 ## Utiliser le programme ?
 - A partir du terminal Linux
